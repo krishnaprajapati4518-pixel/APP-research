@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "TETE",
+    "slug": "TETE",
+    "version": "1.0.0",
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.krishnaprajapati.tete"   
+    }
+  }
+}
